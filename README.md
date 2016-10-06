@@ -12,12 +12,13 @@ This packages provides a shortcut to navigate into your template file, avoid kee
     task=model}}
 ```
 
-![cool cool](http://www.giphy.com/gifs/l0HlNEMs0Vqu79jCo)
+![cool cool](https://media.giphy.com/media/l0HlNEMs0Vqu79jCo/giphy.gif)
 
 
 ### Configs
 
 Template Path - the path to your template files, use `<%= project_path %>` for project's path.
+
 file name - the name of your template file, default `template.hbs`
 
 ### Key Mappings
