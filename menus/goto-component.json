@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle goto-component",
+        "command": "goto-component:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "goto-component",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "goto-component:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

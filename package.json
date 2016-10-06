@@ -1,0 +1,18 @@
+{
+  "name": "goto-component",
+  "main": "./lib/goto-component",
+  "version": "0.0.1",
+  "description": "Did you eat your grapefruit today Tylor?",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "goto-component:toggle"
+  },
+  "repository": "https://github.com/atom/goto-component",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
